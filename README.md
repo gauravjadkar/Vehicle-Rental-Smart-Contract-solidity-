@@ -342,7 +342,6 @@ This project helped me understand:
 - State Management
 - Structs
 - Enums
-- Mappings
 - Modifiers
 - Events
 - NatSpec Documentation
@@ -361,9 +360,11 @@ Example:
 
 ```
 images/
-    [!][https://github.com/gauravjadkar/Vehicle-Rental-Smart-Contract-solidity-/blob/main/images/Screenshot%20From%202026-07-04%2014-24-03.png]
-    deploy.png
-    booking.png
+    [![](https://github.com/gauravjadkar/Vehicle-Rental-Smart-Contract-solidity-/blob/main/images/Screenshot%20From%202026-07-04%2014-24-03.png)]
+    [![](https://github.com/gauravjadkar/Vehicle-Rental-Smart-Contract-solidity-/blob/main/images/Screenshot%20From%202026-07-04%2014-24-44.png)]
+    [![](https://github.com/gauravjadkar/Vehicle-Rental-Smart-Contract-solidity-/blob/main/images/Screenshot%20From%202026-07-04%2014-25-11.png)]
+    [![](https://github.com/gauravjadkar/Vehicle-Rental-Smart-Contract-solidity-/blob/main/images/Screenshot%20From%202026-07-04%2014-27-26.png)]
+
 ```
 
 ---
