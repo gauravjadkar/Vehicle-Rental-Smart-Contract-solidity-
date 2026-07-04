@@ -266,6 +266,14 @@ LICENSE
 
 ---
 
+## Current Limitations
+
+- Time validation is simplified.
+- No overlapping booking support.
+- No frontend integration yet.
+- No automated tests yet.
+
+---
 # 📚 Learning Outcomes
 
 This project helped me understand
@@ -298,6 +306,15 @@ This project helped me understand
 
 ---
 
+## Running the Project
+
+1. Open Remix IDE.
+2. Paste `VehicleRental.sol`.
+3. Compile with Solidity 0.8.13 or newer.
+4. Deploy using the JavaScript VM.
+5. Interact with the contract functions.
+
+---
 # 👨‍💻 Author
 
 ## Gaurav Jadkar
