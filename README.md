@@ -354,18 +354,11 @@ This project helped me understand:
 
 # 📸 Preview
 
-> Add screenshots from Remix IDE or your frontend here.
-
-Example:
-
-```
-images/
     [![](https://github.com/gauravjadkar/Vehicle-Rental-Smart-Contract-solidity-/blob/main/images/Screenshot%20From%202026-07-04%2014-24-03.png)]
     [![](https://github.com/gauravjadkar/Vehicle-Rental-Smart-Contract-solidity-/blob/main/images/Screenshot%20From%202026-07-04%2014-24-44.png)]
     [![](https://github.com/gauravjadkar/Vehicle-Rental-Smart-Contract-solidity-/blob/main/images/Screenshot%20From%202026-07-04%2014-25-11.png)]
     [![](https://github.com/gauravjadkar/Vehicle-Rental-Smart-Contract-solidity-/blob/main/images/Screenshot%20From%202026-07-04%2014-27-26.png)]
 
-```
 
 ---
 
