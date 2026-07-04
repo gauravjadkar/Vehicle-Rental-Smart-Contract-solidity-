@@ -354,10 +354,10 @@ This project helped me understand:
 
 # 📸 Preview
 
-    ![](https://github.com/gauravjadkar/Vehicle-Rental-Smart-Contract-solidity-/blob/main/images/Screenshot%20From%202026-07-04%2014-24-03.png)
-    ![](https://github.com/gauravjadkar/Vehicle-Rental-Smart-Contract-solidity-/blob/main/images/Screenshot%20From%202026-07-04%2014-24-44.png)
-    ![](https://github.com/gauravjadkar/Vehicle-Rental-Smart-Contract-solidity-/blob/main/images/Screenshot%20From%202026-07-04%2014-25-11.png)
-    ![](https://github.com/gauravjadkar/Vehicle-Rental-Smart-Contract-solidity-/blob/main/images/Screenshot%20From%202026-07-04%2014-27-26.png)
+    ![](images/Screenshot%20From%202026-07-04%2014-24-03.png)
+    ![](images/Screenshot%20From%202026-07-04%2014-24-44.png)
+    ![](images/Screenshot%20From%202026-07-04%2014-25-11.png)
+    ![](images/Screenshot%20From%202026-07-04%2014-27-26.png)
 
 
 ---
