@@ -361,7 +361,7 @@ Example:
 
 ```
 images/
-    contract.png
+    [!][https://github.com/gauravjadkar/Vehicle-Rental-Smart-Contract-solidity-/blob/main/images/Screenshot%20From%202026-07-04%2014-24-03.png]
     deploy.png
     booking.png
 ```
